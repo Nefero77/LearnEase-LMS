@@ -1,0 +1,5 @@
+{
+  "name": "Learnease React App full backend",
+  "description": "A comprehensive web-based Learning Management System featuring role-based access, course management (CRUD), AI-powered tutoring, and interactive learning tools.",
+  "requestFramePermissions": []
+}
