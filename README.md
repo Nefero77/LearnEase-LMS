@@ -5,7 +5,7 @@
 Built with the **MERN Stack** (MongoDB, Express, React, Node.js) and **Tailwind CSS**.
 
 ---
-
+<a href = 'https://docs.google.com/spreadsheets/d/10b74jgPe6m5NmWJ7bLy3F1uXo9cVpofvp5TeZxeaQWs/edit?usp=sharing'>Manual Tests of First Build</a>
 ## 🚀 Features
 
 ### 👥 Role-Based Access Control (RBAC)
